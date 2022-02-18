@@ -1,0 +1,7 @@
+
+{   "person": [
+        {"name": "pranab", "age":25, "from":"kolkata", "married": false},
+        {"name": "sayed", "age":26, "from":"delhi", "married": true},
+        {"name": "asum", "age":24, "from":"mumbai", "married": false}
+    ]
+}
